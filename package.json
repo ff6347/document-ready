@@ -1,10 +1,10 @@
 {
   "name": "document-ready",
   "main": "index.js",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Document ready listener for modern browsers",
   "license": "MIT",
-  "repository": "bendrucker/document-ready",
+  "repository": "fabianmoronzirfas/document-ready",
   "author": {
     "name": "Ben Drucker",
     "email": "bvdrucker@gmail.com",
